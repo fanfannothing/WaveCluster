@@ -1,2 +1,2 @@
-WaveCluter
+WaveCluster
 ==========
